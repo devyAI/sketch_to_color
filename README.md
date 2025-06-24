@@ -1,6 +1,7 @@
-# CIFAR-10 Colorization Project
+<<<<<<< HEAD
+# sketch_to_color
 
-This project implements a PyTorch-based model to convert grayscale images back to their original colored versions using the CIFAR-10 dataset.
+A black and white sketch colorized using a neural network. (CIFAR-10) dataset
 
 ## Project Structure
 
@@ -42,3 +43,7 @@ The model consists of:
 - A decoder that reconstructs the color channels from the grayscale input
 
 The architecture is designed to learn the mapping from grayscale to colored images while preserving spatial information.
+=======
+# sketch_to_color
+A black and white sketch colorized using a neural network. (CIFAR-10) dataset 
+>>>>>>> 9a314fae4f75fed5965e47a6e94d0398751c8104
